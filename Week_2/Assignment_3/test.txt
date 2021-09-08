@@ -1,0 +1,7 @@
+Value	SensorNumber
+10.2	T
+435.12	U
+94	G
+0	F
+255.0	P
+21	L
